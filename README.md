@@ -273,7 +273,7 @@ The project is an experimental research prototype and is not a validated operati
 **Aman Kumar**  
 Aspiring Data Scientist | AI/ML Engineer | Computer Vision Enthusiast
 
-- [LinkedIn](https://www.linkedin.com/in/aman-agrawal-788677378/)
+- [LinkedIn](https://www.linkedin.com/in/aman-kumar-788677378)
 - [GitHub](https://github.com/AmanAgrawalAI)
 - [Email](mailto:amanagrawal06922@gmail.com)
 
