@@ -278,6 +278,9 @@ Aspiring Data Scientist | AI/ML Engineer | Computer Vision Enthusiast
 - [Email](https://mail.google.com/mail/?view=cm&fs=1&to=amanagrawal06922@gmail.com)
 
 ---
+## 📄 License
+
+This project is licensed under the **MIT License**.
 
 ⭐ If you find this project interesting, consider giving the repository a star!
 
